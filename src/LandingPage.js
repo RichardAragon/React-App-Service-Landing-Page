@@ -1,4 +1,4 @@
-.landing-page {
+landing-page {
   min-height: 100vh;
   background: linear-gradient(to bottom, #3498db, #8e44ad);
   color: white;
