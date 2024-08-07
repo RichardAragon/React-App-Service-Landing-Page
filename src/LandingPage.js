@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './LandingPage.css';
 
 const LandingPage = () => {
   const [isFormOpen, setIsFormOpen] = useState(false);
